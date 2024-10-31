@@ -1,0 +1,10 @@
+#wpadminbar .flizrsn-locked .ab-item:before {
+  color: #0E0;
+  content: '\f160';
+  margin-right:0;
+}
+#wpadminbar .flizrsn-unlocked .ab-item:before {
+  color: #E00;
+  content: '\f528';
+  margin-right:0;
+}
